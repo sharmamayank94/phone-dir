@@ -20,7 +20,7 @@ h3{
   padding-bottom: 10px;
 }
 .card{
-  width: 400px;
+  max-width: 400px;
   margin: auto;
   padding: 20px;
   border: 2px solid black;
